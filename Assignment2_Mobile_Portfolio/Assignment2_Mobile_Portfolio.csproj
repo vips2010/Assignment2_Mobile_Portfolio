@@ -57,6 +57,8 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\a.css" />
+    <Content Include="Content\a.min.css" />
     <Content Include="Content\images\ajax-loader.gif" />
     <Content Include="Content\images\icons-png\action-black.png" />
     <Content Include="Content\images\icons-png\action-white.png" />
