@@ -1,11 +1,14 @@
-﻿.ui-page {
-      background:url(jumbo_bg.jpg) no-repeat center center fixed;
-      -webkit-background-size: cover;          
-      -moz-background-size: cover;         
-       -o-background-size: cover;          
-       background-size: cover;
- }  
+﻿
 .ui-grid-b img {
        width  : 100%;
        height : auto;
    }
+
+body {
+    font-family: Georgia, "Times New Roman",
+          Times, serif;
+
+}
+h1 {
+    font-family: Helvetica, Geneva, Arial,
+          SunSans-Regular, sans-serif }
